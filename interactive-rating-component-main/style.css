@@ -35,7 +35,7 @@ button{
 .main-img{
     padding: 0.15%;
     margin-right: 2px;
-    width: 30px;
+    width: 50px;
     border-radius: 50%;
     background-color: hsl(217, 12%, 63%);
 }
@@ -118,6 +118,9 @@ button{
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+.hiden{
+    display: none;
 }
 
 
